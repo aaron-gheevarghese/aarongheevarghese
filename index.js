@@ -2,7 +2,7 @@ function aaronFunFact(){
     const particpants = [ 
         {
             name: "Aaron",
-            funFact: "I love succession",
+            funFact: "I love polar bears",
         },
     ];
 }
